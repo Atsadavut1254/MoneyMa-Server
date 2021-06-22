@@ -1,0 +1,37 @@
+{
+    "name": "playground-moneyma",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js",
+        "dev": "nodemon server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/famesensor/Playground-Money-Ma.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/famesensor/Playground-Money-Ma/issues"
+    },
+    "homepage": "https://github.com/famesensor/Playground-Money-Ma#readme",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^8.2.0",
+        "exceljs": "^4.2.1",
+        "express": "^4.17.1",
+        "firebase-admin": "^9.5.0",
+        "got": "^11.8.2",
+        "jsonwebtoken": "^8.5.1",
+        "uuid": "^8.3.2",
+        "validator": "^13.5.2",
+        "winston": "^3.3.3"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.7"
+    }
+}
