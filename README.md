@@ -43,8 +43,6 @@ ACCOUNT_TO =
 This project is a part of CSS491 Project Proposal and CSS492 Project Study of Applied Computer Science, Department of Mathematics, KMUTT
 
 ## LINE Application
-```
 You can access to MoneyMa : Line@ : @693asbwr for use the LINE Application
 
-```
 
